@@ -1,3 +1,2 @@
-langchian
 langchain_ollama
 streamlit
