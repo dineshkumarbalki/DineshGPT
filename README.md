@@ -1,5 +1,7 @@
 # DineshGPT
 New Tech with Gen AI
+Creating ChatBot with Ollama LLM
+
 Start with creating a folder  "FolderName"
 Open the Foler in VS Code
 Click on "Terminal" Go to >> New Terminal
